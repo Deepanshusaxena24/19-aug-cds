@@ -1,2 +1,4 @@
 writing first line 
 making some functions
+writing some more lines 
+after first commit
