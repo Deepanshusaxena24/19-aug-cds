@@ -1,1 +1,3 @@
 we are learning git versional control system
+
+i am writing some lines to show how to make version
