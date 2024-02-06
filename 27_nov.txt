@@ -7,3 +7,5 @@ writing 3rd lines for 3rd version
 task doing by mumbai developer
 
 we have made pradeep & lala branch but we are in master branch
+
+we want to see how to exit from statging area
